@@ -14,7 +14,4 @@ dev/*css
 !dev/prepare-commit-message.js
 !dev/lint-commit-message.js
 !dev/warn-npm-install.js
-/es5
-/dist
-/release
 .env
